@@ -7,7 +7,8 @@
 -->
 - 📚 Currently studying a **Bachelor's Degree in Statistics** at the University of São Paulo
 - 🔬 Researcher in **NLP** and **Graph Neural Networks models**
-- 📫 You can reach me at **croso.bruno@gmail.com**
+- 📫 You can reach me at **croso.bruno@gmail.com**]
+- 💻 Take a look at my personal website at **https://brunocroso.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
